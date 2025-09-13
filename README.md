@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Prediction with Graph Neural Networks
+# ✈️ Flight Delay Prediction
 
 This repository contains a project that uses a **Graph Neural Network (GNN)** to predict flight delays. Unlike traditional models that treat flights independently, this approach models the airline network as a graph to capture interconnectedness, which improves prediction accuracy.
 
